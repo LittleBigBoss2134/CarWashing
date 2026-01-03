@@ -1,0 +1,7 @@
+{
+  "name": "SparkleWash Pro Timer",
+  "description": "A professional car washing timer app with customizable routines, integrated voice guidance, and earnings tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
